@@ -315,12 +315,6 @@ section.latest .product-nav {
     text-align: center;
 }
 
-section.latest .product-nav * {
-    padding: 10px;
-    display: flex;
-    flex-wrap: wrap;
-}
-
 /* Responsiveness */
 @media (max-width: 1226px) {
     .lamp {
